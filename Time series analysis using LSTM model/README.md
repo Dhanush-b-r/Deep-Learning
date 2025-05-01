@@ -39,5 +39,5 @@ The script will:
 ---
 
 ## Author
-Dhanush B R
+DBR
 Deep Learning Project for Time Series Forecasting
