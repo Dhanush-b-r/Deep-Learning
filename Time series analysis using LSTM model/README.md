@@ -6,6 +6,7 @@ This project implements a Long Short-Term Memory (LSTM) neural network to foreca
 
 ## Dataset
 The dataset contains the total number of international airline passengers per month. It spans from January 1949 to December 1960.
+
 File: `AirPassengers.csv`
 
 ---
@@ -39,5 +40,5 @@ The script will:
 ---
 
 ## Author
-DBR
+DBR, 
 Deep Learning Project for Time Series Forecasting
